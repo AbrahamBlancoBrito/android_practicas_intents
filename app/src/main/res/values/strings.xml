@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appcoursera</string>
+
+    <string name="name">"name"</string>
+    <string name="date">"date"</string>
+    <string name="tlf">tlf</string>
+    <string name="email">email</string>
+    <string name="desc">desc</string>
+</resources>
